@@ -14,3 +14,4 @@ Si se reinstaló la aplicación y se borraron los datos antiguos ó se cambió d
 - cache
 - databases
 
+Los datos de la aplicación se ubican en /data/data/com.htsu.hsbcpersonalbanking/
