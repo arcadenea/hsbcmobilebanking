@@ -1,5 +1,10 @@
 # HSBC Mobile Banking Argentina - Android
-Esta es una serie de instrucciones para hacer funcionar la app HSBC Mobile Banking en Argentina. El soporte de la misma no es muy bueno, por lo que agrego estas notas para aquellos que no han podido instalarla.
+Esta es una serie de instrucciones para hacer funcionar la app HSBC Mobile Banking en Argentina, especialmente para el soporte de dispositivo de seguridad digital, en reemplazo del antiguo Token que se utilizaba para validar las operaciones. El soporte de la misma no es muy bueno, por lo que agrego estas notas para aquellos que no han podido instalarla.
+
+
+## Aplicación
+Pueden encontrar la aplicación en la siguiente dirección (Google Play Store)
+https://play.google.com/store/apps/details?id=com.htsu.hsbcpersonalbanking&hl=es_AR&gl=US
 
 
 ## Instalación
